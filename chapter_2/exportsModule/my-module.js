@@ -1,0 +1,1 @@
+exports.myText ='My module from my-module.js file';
