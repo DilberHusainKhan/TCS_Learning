@@ -1,0 +1,99 @@
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
+Assignment 1
+
+-Working with Files
+
+Create a file FilesApp.js which uses the fs Module.
+
+Assume there is a file with name input.txt in the same directory of FilesApp.js
+
+Write code to read contents from the file first asynchronously and then synchronously.
+
+Execute FilesApp.js
